@@ -11,6 +11,10 @@
 ## Моя мотивация —
 Видеть, как моя работа превращается в рабочий инструмент, который приносит конкретную пользу бизнесу и пользователям. Стремление к осязаемому результату и интерес к новым сферам подталкивают меня постоянно развиваться в аналитике. 
 
+## Контакты для связи:
+- [Telegram](https://t.me/lunannee)
+- Email: voramia26@mail.ru
+
 <!--
 **Voronkova-Anna/Voronkova-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
