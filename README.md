@@ -22,12 +22,12 @@
 
 ## Портфолио
 
-| Название | Описание |
-|---|---|
-| [Разработка спецификации требований для Chatty 2.0](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/chatty) | Дополнить и доработать спецификацию требований к веб-приложению Chatty (версия 2.0) с учётом новых функций |
-| [Моделирование данных для интернет-магазина «Накарабине»](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/nakarabine) | Разработать логическую модель данных, которая станет основой для проектирования базы данных | 
-| [API для сервиса Otium](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/otium-api) | Добавить сервис «ТВ-каналы» с функциональностью, аналогичной фильмам и сериалам |
-| [Требования и прототип для приложения Stets Home](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/stets-home)| Определить и формализовать требования для управления умными устройствами; разработать интерактивный прототип и провести демо |
+| Название | Описание | Технологии и инструменты |
+|---|---|---|
+| [Разработка спецификации требований для Chatty 2.0](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/chatty) | Дополнить и доработать спецификацию требований к веб-приложению Chatty (версия 2.0) с учётом новых функций | SRS, Drawio, Use Case |
+| [Моделирование данных для интернет-магазина «Накарабине»](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/nakarabine) | Разработать логическую модель данных, которая станет основой для проектирования базы данных | ERD, Drawio, Use Case, PostgreSQL |
+| [API для сервиса Otium](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/otium-api) | Добавить сервис «ТВ-каналы» с функциональностью, аналогичной фильмам и сериалам | API, Swagger, Postman, REST |
+| [Требования и прототип для приложения Stets Home](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/stets-home)| Определить и формализовать требования для управления умными устройствами; разработать интерактивный прототип и провести демо | Figma, Miro, Drawio, Use Case, User Story Map, DFD, ERD, ПМИ |
 
 <!--
 **Voronkova-Anna/Voronkova-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
