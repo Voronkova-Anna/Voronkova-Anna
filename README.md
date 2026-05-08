@@ -5,10 +5,10 @@
 - Analysis & Design: Use Case, User Story Map, MVP, DFD, BPMN, UML, ER-диаграммы.
 - Tools: Miro, Figma, Drawio, Postman, Swagger.
 - Databases & Messaging: PostgreSQL.
-- Programming: SQL, Python(базовый уровень)
+- Programming: SQL, Python (базовый уровень)
 - Methods: Agile.
 ## Чем полезна:
-Умею быстро погружаться в новые предметные области, выявлять реальные потребности пользователей и трансформировать их в чёткие требования. Понимаю, как важно, чтобы итогом анализа было не просто ТЗ, а рабочее решение, закрывающее бизнес-задачу.
+Умею быстро погружаться в новые предметные области, выявлять реальные потребности пользователей и трансформировать их в четкие требования. Понимаю, как важно, чтобы итогом анализа было не просто ТЗ, а рабочее решение, закрывающее бизнес-задачу.
 ## Моя мотивация —
 Видеть, как моя работа превращается в рабочий инструмент, который приносит конкретную пользу бизнесу и пользователям. Стремление к осязаемому результату и интерес к новым сферам подталкивают меня постоянно развиваться в аналитике. 
 
@@ -24,11 +24,11 @@
 
 | Название | Описание | Технологии и инструменты |
 |---|---|---|
-| [Разработка спецификации для платформы CodeUnity](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/6b44c30a75afc4bc0642c4c134c43f61290b5342/CodeUnity%20) | Спроектировать веб-платформу для поиска IT-команд и обмена знаниями. Разработана полная спецификация: 60+ ВИ, 13 Sequence-диаграмм, ER-диаграмма, API-контракты | SRS, Use Cases, Sequence, ERD, Swagger, PlantUML, Miro |
-| [Разработка спецификации требований для Chatty 2.0](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/chatty) | Дополнить и доработать спецификацию требований к веб-приложению Chatty (версия 2.0) с учётом новых функций | SRS, Drawio, Use Case |
-| [Моделирование данных для интернет-магазина «Накарабине»](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/nakarabine) | Разработать логическую модель данных, которая станет основой для проектирования базы данных | ERD, Drawio, Use Case, PostgreSQL |
-| [API для сервиса Otium](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/otium-api) | Добавить сервис «ТВ-каналы» с функциональностью, аналогичной фильмам и сериалам | API, Swagger, Postman, REST |
-| [Требования и прототип для приложения Stets Home](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/stets-home)| Определить и формализовать требования для управления умными устройствами; разработать интерактивный прототип и провести демо | Figma, Miro, Drawio, Use Case, User Story Map, DFD, ERD, ПМИ |
+| [Разработка спецификации для платформы CodeUnity](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/6b44c30a75afc4bc0642c4c134c43f61290b5342/CodeUnity%20) | Спроектировала веб-платформу для поиска IT-команд и обмена знаниями. Разработала полную спецификацию: 60+ ВИ, 13 Sequence-диаграмм, ER-диаграмма, API-контракты | SRS, Use Cases, Sequence, ERD, Swagger, PlantUML, Miro |
+| [Разработка спецификации требований для Chatty 2.0](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/chatty) | Дополнила и доработала спецификацию требований к веб-приложению Chatty (версия 2.0) с учётом новых функций | SRS, Drawio, Use Case |
+| [Моделирование данных для интернет-магазина «Накарабине»](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/nakarabine) | Разработала логическую модель данных, которая станет основой для проектирования базы данных | ERD, Drawio, Use Case, PostgreSQL |
+| [API для сервиса Otium](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/otium-api) | Добавила сервис «ТВ-каналы» с функциональностью, аналогичной фильмам и сериалам | API, Swagger, Postman, REST |
+| [Требования и прототип для приложения Stets Home](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/stets-home)| Определила и формализовала требования для управления умными устройствами; разработала интерактивный прототип и провела демо | Figma, Miro, Drawio, Use Case, User Story Map, DFD, ERD, ПМИ |
 
 <!--
 **Voronkova-Anna/Voronkova-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
