@@ -24,6 +24,7 @@
 
 | Название | Описание | Технологии и инструменты |
 |---|---|---|
+| [Разработка спецификации для платформы CodeUnity]() | Спроектировать веб-платформу для поиска IT-команд и обмена знаниями. Разработана полная спецификация: 60+ ВИ, 13 Sequence-диаграмм, ER-диаграмма, API-контракты | SRS, Use Cases, Sequence, ERD, Swagger, PlantUML, Miro |
 | [Разработка спецификации требований для Chatty 2.0](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/chatty) | Дополнить и доработать спецификацию требований к веб-приложению Chatty (версия 2.0) с учётом новых функций | SRS, Drawio, Use Case |
 | [Моделирование данных для интернет-магазина «Накарабине»](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/nakarabine) | Разработать логическую модель данных, которая станет основой для проектирования базы данных | ERD, Drawio, Use Case, PostgreSQL |
 | [API для сервиса Otium](https://github.com/Voronkova-Anna/portfolio-Voronkova/tree/a25e53291eea866bb90329dc7e744dc407bdd2ec/otium-api) | Добавить сервис «ТВ-каналы» с функциональностью, аналогичной фильмам и сериалам | API, Swagger, Postman, REST |
